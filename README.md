@@ -2,7 +2,7 @@
 
 ### 😎 Meu cartão de visita feito em HTML, CSS e JavaScript. 
 
-[![Screenshot](/img/btc.png)](https://cartaodeapresentacao.netlify.app/)
+[![Screenshot](/assets/print.png)](https://cartaodeapresentacao.netlify.app/)
 
 #
 
